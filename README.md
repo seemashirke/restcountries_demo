@@ -1,9 +1,9 @@
 REST Countries Demo
 =======
 
-**Demo 1** - Sorted list of countries by population using a RESTful API https://restcountries.eu
+**Demo 1** - Sorted list of countries by population using a RESTful API
 
-**Demo 2** - Country in Asia containing the most bordering countries of a different region using a RESTful API https://restcountries.eu
+**Demo 2** - Country in Asia containing the most bordering countries of a different region using a RESTful API
 
 #  
 Prerequisite
@@ -32,7 +32,7 @@ Run The Project
 #  
 Test The Project
 ---------------
-1) Open STS Postman
+1) Open Postman
 2) For the **Demo 1** - Sorted list of countries by population, hit the URL
    ``` html
    localhost:8080/countries
