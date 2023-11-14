@@ -14,7 +14,7 @@ Get a laptop/desktop installed with STS IDE, Java & Postman softwares.
 
 Import The Project
 ---------------
-1) Clone the project from github URL
+1) Clone the project from github URL - https://github.com/seemashirke/restcountries_demo.git
 2) Unzip the file
 3) Then Go to STS IDE, import the existing maven project
 4) Browse the directory to import the project
