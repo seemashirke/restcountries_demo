@@ -8,7 +8,7 @@ REST Countries Demo
 #  
 Prerequisite
 ---------------
-Get a laptop/desktop installed with STS IDE ,Java & Postman softwares.
+Get a laptop/desktop installed with STS IDE, Java & Postman softwares.
 
 #  
 
@@ -17,17 +17,17 @@ Import The Project
 1) Clone the project from github URL
 2) Unzip the file
 3) Then Go to STS IDE, import the existing maven project
-4) browse the directory to import the project
-5) let project to build
+4) Browse the directory to import the project
+5) Let project to build
 
 #  
 Run The Project
 ---------------
 1) Open STS IDE
-2) go to the CountryService project
-3) right click on the project
-4) click on run as "Spring boot project"
-5) verify application run successfully
+2) Go to the CountryService project
+3) Right click on the project
+4) Click on run as "Spring boot project"
+5) Verify application run successfully
 
 #  
 Test The Project
